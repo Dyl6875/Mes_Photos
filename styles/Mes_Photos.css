@@ -19,7 +19,7 @@ h1 {
 }
 
 img {
-    max-width: 40%;
+    max-width: 20%;
     border-radius: 9px;
 }
 
@@ -29,29 +29,9 @@ img {
     margin-top: 30px;
 }
 
-.photos .imagee {
-    width: 30%;
-}
-
-.photos .imagee img {
-    width: 100%;
-    border-radius: 8px;
-}
-
-
-
-
-.gallery {
+.pho2 {
     display: flex;
     justify-content: space-around;
     margin-top: 30px;
-}
-
-.gallery .image {
-    width: 30%;
-}
-
-.gallery .image img {
-    width: 100%;
-    border-radius: 8px;
+    margin: 70px;
 }
