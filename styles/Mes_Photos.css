@@ -31,7 +31,7 @@ img {
 
 .pho2 {
     display: flex;
-    justify-content: space-around;
-    margin-top: 30px;
+    justify-content: center;
+    gap: 150px;
     margin: 70px;
 }
